@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the repository and the UCI Online Retail dataset."
+title: "CustomerAtlas-5D: K-Means from Scratch on Online Retail Data"
+type: software
+authors:
+  - family-names: Firoozbakht
+    given-names: Matin
+year: 2026
+license: MIT
+preferred-citation:
+  type: dataset
+  title: "Online Retail"
+  authors:
+    - family-names: Chen
+      given-names: Daqing
+  year: 2015
+  doi: "10.24432/C5BW33"
