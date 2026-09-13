@@ -224,7 +224,7 @@ See [`DATASET.md`](DATASET.md) for attribution details.
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CustomerAtlas-5D-KMeans.git
+git clone https://github.com/matinfirooz/CustomerAtlas-5D-KMeans.git
 cd CustomerAtlas-5D-KMeans
 
 python -m venv .venv
