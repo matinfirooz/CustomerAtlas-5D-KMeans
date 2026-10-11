@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  5D Feature Engineering  K-Means++ · Model Selection · Stability Analysis · PCA · Customer Personas
+  5D Feature Engineering · K-Means++ · Model Selection · Stability Analysis · PCA · Customer Personas
 </p>
 
 ---
